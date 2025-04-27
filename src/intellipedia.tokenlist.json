@@ -1,0 +1,34 @@
+{
+  "name": "Intellipedia Token List",
+  "logoURI": "https://raw.githubusercontent.com/StevenVincentOne/intellitoken/main/assets/inti-logo.png",
+  "keywords": [
+    "intellipedia",
+    "inti",
+    "intellitoken"
+  ],
+  "tags": {
+    "intellipedia": {
+      "name": "Intellipedia",
+      "description": "Tokens from the Intellipedia ecosystem"
+    }
+  },
+  "timestamp": "2025-04-27T20:56:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xd4c5ab9B04Fe1BE51e82a7f62AE472197a44DC8A",
+      "symbol": "INTI",
+      "name": "IntelliToken",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/StevenVincentOne/intellitoken/main/assets/inti-logo.png",
+      "tags": [
+        "intellipedia"
+      ]
+    }
+  ]
+}
